@@ -2,7 +2,8 @@ Ecommerce Website with Database with Verification And Forget Password Functional
 
 -->Main screen
 
-![Screenshot 2024-07-12 121903](https://github.com/user-attachments/assets/a553a921-8486-49f3-a651-146a497d70a1)
+![Screenshot 2024-07-12 133222](https://github.com/user-attachments/assets/3596e194-3b12-4544-9544-2be95db93921)
+
 ![Screenshot 2024-07-12 121921](https://github.com/user-attachments/assets/a61d29b1-a183-4935-b676-42ee50695ba1)
 
 -->Register Screen
